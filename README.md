@@ -1,7 +1,5 @@
 ## [Udacity Nanodegree Coursework](https://www.udacity.com/)
-
-# 
-
+ 
 Udacity Nanodegree Coursework:
 ## [SQL](https://github.com/riched158/SQL-nano)
 
